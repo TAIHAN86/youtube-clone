@@ -1,0 +1,15 @@
+.thumbnail{
+    border-radius: 10px;
+    size: 50px;
+}
+.text-dim{
+    color: #aaaaaa;
+
+}
+.channel-logo{
+    max-width: 50%;
+    height:50%;
+    border-radius: 110%;
+    size-adjust: 50%;
+
+}
