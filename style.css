@@ -17,6 +17,10 @@
     border-radius: 50%;
 
 }
+.navbar-brand {
+  color:whitesmoke;
+}
+
 
     /* Adjust the styling as per your requirements */
     .sidebar {
