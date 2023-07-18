@@ -7,8 +7,8 @@
 
 }
 .img-fluid {
-    height: 200px;
-    width: 400px;
+    height: 190px;
+    width: 300px;
 }
 .channel-logo{
     max-width: 40%;
@@ -17,3 +17,24 @@
     border-radius: 50%;
 
 }
+
+    /* Adjust the styling as per your requirements */
+    .sidebar {
+        height: 100vh;
+        background-color: #f8f9fa;
+        padding: 20px;
+      }
+  
+      .sidebar-heading {
+        font-size: 1.2rem;
+        margin-bottom: 20px;
+      }
+  
+      .list-group-item {
+        background-color: transparent;
+        border: none;
+        border-radius: 0;
+        padding: 8px 16px;
+        color: #000;
+        font-weight: bold;
+      }
