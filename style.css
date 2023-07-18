@@ -6,10 +6,14 @@
     color: #aaaaaa;
 
 }
+.img-fluid {
+    height: 200px;
+    width: 400px;
+}
 .channel-logo{
-    max-width: 50%;
-    height:50%;
-    border-radius: 110%;
+    max-width: 40%;
+    height:40%;
     size-adjust: 50%;
+    border-radius: 50%;
 
 }
